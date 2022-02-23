@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for incouraging Protestant-strangers and others to inhabit and plant in the kingdom of Ireland</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45967</idno>
+            <idno type="STC">Wing I303</idno>
+            <idno type="STC">ESTC R26813</idno>
+            <idno type="EEBO-CITATION">09547168</idno>
+            <idno type="OCLC">ocm 09547168</idno>
+            <idno type="VID">43596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43596)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for incouraging Protestant-strangers and others to inhabit and plant in the kingdom of Ireland</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook and are to be sold by Sam. Dancer,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland.</term>
+               <term>Ireland --  Emigration and immigration.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43596:1"/>
+            <pb facs="tcp:43596:1" rendition="simple:additions"/>
+            <p>AN ACT FOR INCOURAGING PROTESTANT-STRANGERS AND OTHERS, To Inhabit and Plant in the KINGDOM OF IRELAND.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>John Crook,</hi> Printer to the KINGS moſt Excellent MAJESTY, and are to be ſold by <hi>Sam. Dancer,</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:43596:2"/>
+            <pb n="1" facs="tcp:43596:2" rendition="simple:additions"/>
+            <head>AN ACT For Encouraging PROTESTANT-STRANGERS And Others, To Inhabit and Plant in the KINGDOM of IRELAND.</head>
+            <p>
+               <seg rend="decorInit">F</seg>ORASMVCH as the Late Inte<g ref="char:EOLhyphen"/>ſtine Troubles and cruel Wars have much deſpoiled and waſted this Your Majeſties King<g ref="char:EOLhyphen"/>dome of <hi>Ireland,</hi> whereby the Trade &amp; Commerce there<g ref="char:EOLhyphen"/>of is much decoyed and leſſened for want as well of Merchants, Traders and Dealers of Ability to exercize a Traffic as of skilful Artificers, Artizens and Workman for the making and working all Sorts of Manufa<g ref="char:EOLhyphen"/>ctures there:</p>
+            <pb n="2" facs="tcp:43596:3"/>
+            <p>And whereas for this cauſe many of the Ma<g ref="char:EOLhyphen"/>terials and Commodities of the growth of this Kingdom, as Wool, Flax, Hemp, Wollen and Linen Yarn, Iron, and ſundry others the the like, are uſually tranſported, and carried into Forraign Parts, there to be wrought and manuf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctured into ſundry Commodities where<g ref="char:EOLhyphen"/>by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eople of this Your Maieſties Kingdom are de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived of the benefit which might ariſe by working thoſe materials themſelves, and for want of Imployment are neceſſitated to live idly, and poorly, and ſo apt to run into Thefts, Robberies, Rebellions, and all other ſorts of Miſchiefs, and if any of the Materials and Commodities aforeſaid do happen to be wrought in this Kingdom, either through Vnskilfulneſs or other indirect practice of the Workmen, they are uſually ſo wrought, as they are moſt com<g ref="char:EOLhyphen"/>monly unfit for wearing at Home, or Merchan<g ref="char:EOLhyphen"/>dizing abroad, and therefore much Coyn, and ready Money is carried out, and tranſported for buying and purchaſing of Forraign Manufa<g ref="char:EOLhyphen"/>ctures to the great exhauſting and diminiſhing the Treaſure of this Kingdom:</p>
+            <p>And whereas many Strangers and other<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the conſideration of Your Maieſties moſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Princely Wiſdom, Clemency and Goodneſs, and of the plentifulneſs of all ſorts of uſeful and pro<g ref="char:punc">▪</g>fitable Commodities with which this Your Ma<g ref="char:EOLhyphen"/>jeſties Kingdom abounds in a very great mea<g ref="char:EOLhyphen"/>ſure, might be induced and inclined to tranſport Themſelves and Families to the filling and re<g ref="char:EOLhyphen"/>pleniſhing of this Kingdom, as well with peo<g ref="char:EOLhyphen"/>ple as Trade, if ſuch Strangers might be made
+<pb n="3" facs="tcp:43596:3" rendition="simple:additions"/>Partakers of the Advantages, Liberties and Priviledges which this Kingdom hath formerly and doth ſtill enjoy, under the moſt Gracious and Benign Government of Your Majeſty, and Your moſt Royal Predeceſſors, and have the free Exercize of their Trades, Myſteries, Crafts and Sciences of buying, ſelling, work<g ref="char:EOLhyphen"/>ing and manufacturing the ſaid Materials without Interruption and Diſturbance.</p>
+            <p>May it therefore pleaſe Your moſt Excellent Majeſty that it may be Enacted, And Be it En<g ref="char:EOLhyphen"/>acted by the Kings moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and of the Commons in this preſent Parliament Aſſembled, and by the Authority thereof, That all and every perſon and perſons born out of Your Majeſties Domi<g ref="char:EOLhyphen"/>nions, of the Proteſtant Religion, and all Merchants, Traders and Dealers in any Goods, Wares or Merchandizes, Artizans, Artificers or others working or manufacturing any Goods or Commodities, or any Maririners or Seamen who are at preſent inhabiting with<g ref="char:EOLhyphen"/>in any part of this Kingdom, and all others who ſhall at any time hereafter within the term of ſeven Years from the end of this preſent Par<g ref="char:EOLhyphen"/>liament, tranſport his or their Stocks and Fa<g ref="char:EOLhyphen"/>milies into any part of this Kingdom, with intention that Themſelves and Children after them, will inhabit, reſide and abide in ſome part thereof, ſhall after his or their arrival with his or their Stock, Subſtance and Family or Families within this kingdom, and after his or their taking the Oaths of Allegiance and Supremacie, to and of Our Sovereign Lord the King, before the Lord Chancellour, or the Lords Preſidents or Vice-Preſidents of the Pro<g ref="char:EOLhyphen"/>vince
+<pb n="4" facs="tcp:43596:4"/>of <hi>Munſter</hi> or <hi>Connaught</hi> reſpectively for the time being, or any Iudge in his Circuit, who are hereby authorized to adminiſter the ſaid Oaths unto any ſuch perſon or perſons as afore<g ref="char:EOLhyphen"/>ſaid, and thereupon to certifie his or their doing thereof unto His Majeſties High Court of Chancery there to remain on Record, deemed, ad<g ref="char:EOLhyphen"/>jugded and reputed Your Majeſties liege, free and natural Subject or Subjects of this Your Majeſties Kingdom, and be adjudged reputed and taken in every reſpect, condition and degree, to all Intents, Conſtructions and Purpoſes, Your Majeſties natural and liege Subjects of this Kingdom, as if they and every of them had been or were born within this Kingdom of <hi>Ireland,</hi> and that they and every of them, their Wives and Children, in all things, and by all lawful ways and means whatſoever, ſhall and may uſe, have and enjoy the full grace and be<g ref="char:EOLhyphen"/>nefit of all and every the Laws, Preheminences, Iuriſdictions and Cuſtoms of this Kingdome, to all Intents, Conſtructions and Purpoſes in the Law, or otherwiſe whatſoever, in the ſame manner and form as any natural born Subject hath, may or can have, uſe and enjoy; and that they and every of them ſhall anſwer, and ſhall be anſwered unto, and ſhall and may implead or be impleaded in whatſoever Court or Courts of Iuſtice or otherwhere within this Your Maje<g ref="char:EOLhyphen"/>ſties Kingdom, as the natural born, free, liege Subjects of this Kingdom of <hi>Ireland;</hi> And that they and every of them by force of this preſent Act, ſhall have full Licence, Freedom, Liberty Power and Authority as well to have, occupy, poſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs and enjoy, retain and keep, as to ask, de<g ref="char:EOLhyphen"/>mand, challenge and have, and alſo to acquire,
+<pb n="5" facs="tcp:43596:4"/>buy and purchaſe, or receive by gift or otherwiſe by any lawful ways or means to the uſe of them, and of all and every or any of them, their Heirs, Executors, Adminiſtrators and Aſſigns of all and every or of any of them for ever, all, any and whatſoever Mannors, Meſſuages, Lands, Tenements, Rents, Services, Offices, Here<g ref="char:EOLhyphen"/>ditaments and other Poſſeſſions, Goods real and perſonal whatſoever, as well by any of their Anceſtors and Predeceſſors acquired and purchaſed, or to them or any of them made, granted, enfeoffed, conveyed or aſſured, or which at any times hereafter ſhall and may be made, granted, enfeoffed, given, conveyed or aſſured, or ſhall come as Heir or Heirs to their or any of their Anceſtors lineally or collaterally by reaſon of any Deſcent, Remainder, Reverſion, Right, or any other Title, Gift or Conveyance whatſo<g ref="char:EOLhyphen"/>ever, or which after the firſt day of this preſent Parliament, ſhall deſcend, remain, revert ac<g ref="char:EOLhyphen"/>crew, come or grow unto Your ſaid Subjects, or any of them, and in the ſame to inherit, ſuc<g ref="char:EOLhyphen"/>ceed and come by Right of Inheritance or other<g ref="char:EOLhyphen"/>wiſe howſoever, without the Let and Impedi<g ref="char:EOLhyphen"/>ment of Your moſt Excellent Majeſty, Your Heirs and Succeſſors, any Law, Cuſtom, Statute, Act, Proviſion, Ordinance, Re<g ref="char:EOLhyphen"/>ſtraint or Inhibition to the contrary, before this time made, Enacted, Ordained and Provided, or ony other Matter, Cauſe or thing whatſoever notwithſtanding. And alſo to proſecute, purſue, maintain, avow, juſtifie and defend all and all manner of Actions, Suites and Cauſes, and all other lawful things whatſoever, to do as lawfully, frankly, fully, liberally, ſurely and freely as if Your ſaid Subiects had been and
+<pb n="6" facs="tcp:43596:5"/>were born within this Kingdom of <hi>Ireland,</hi> and as any other perſon or perſons naturally born within this Kingdome of <hi>Ireland,</hi> may Law<g ref="char:EOLhyphen"/>fully or in any wiſe do, any Act, Law, Statute, Cuſtom, Ordinance, or other Thing whatſoe<g ref="char:EOLhyphen"/>ver, had, made, done, premulged or provided to the contrary hereof in any wiſe notwithſtanding.</p>
+            <p>And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That every perſon and perſons as well Strangers and Aliens as His Majeſties Sub<g ref="char:EOLhyphen"/>jects of the Proteſtant Religion, who is, are or ſhall be Traders, Artizans, Artificers, Sea<g ref="char:EOLhyphen"/>men or otherwiſe skilled and exercized in any myſtery, craft or trade, or in the working or ma<g ref="char:EOLhyphen"/>king any Manufacture or Art of Navigation, who are at preſent reſiding and inhabiting with<g ref="char:EOLhyphen"/>in this Kingdom, or who ſhall at any time here<g ref="char:EOLhyphen"/>after come into any City, Burrough, Priviledg<g ref="char:EOLhyphen"/>ed and Incorporated Town or Place of this Kingdom, with Intent, Purpoſe and Reſolu<g ref="char:EOLhyphen"/>tion, there to inhabit, reſide and dwell, ſhall upon his or their reaſonable Suit or Requeſt made, and upon payment down or tender of Twenty Shillings by way of Fine unto the Chief Magiſtrate or Magiſtrates and Common Council, or other perſons authorized to admit and make Freemen of ſuch City, Town or Cor<g ref="char:EOLhyphen"/>poration where he or they do intend to inhabit, reſide or dwell, be admitted a Freeman of any ſuch City, Burrough or Priviledged or Incor<g ref="char:EOLhyphen"/>porated Town or Place within this Kingdom, and if he or they ſhall deſire it, of all or any Guild, Brotherhood, Society or Fellowſhip of anie Trade, Craft or other Myſterie within all or anie the ſame, and during his or their Reſidence for the moſt part, and his and their
+<pb n="7" facs="tcp:43596:5"/>Families conſtant Inhabiting within this Kingdom, and no longer to have, exercize and enjoy all Priviledges and Immunities of tra<g ref="char:EOLhyphen"/>ding, buying, working and ſelling, in as large and ample manner as anie Freeman of anie ſuch Citie, Burrough, Priviledged and Incor<g ref="char:EOLhyphen"/>porated Town or other Place, might have, ex<g ref="char:EOLhyphen"/>ercize or enjoy by virtue of his or their Free<g ref="char:EOLhyphen"/>dom; and that everie ſuch perſon or perſons whatſoever, who ſhall be admitted to be free as aforeſaid, ſhall from thenceforth be deemed, e<g ref="char:EOLhyphen"/>ſteemed, taken and be Denizen and Denizens within this Kingdom, anie former Law, Statute, Charter, Vſage or Cuſtome of this Kingdom, or of anie Citie, Burrough, Pri<g ref="char:EOLhyphen"/>viledged Incorporated Town, or other place of the ſame to the contrarie in anie wiſe not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>Provided always, and Be it Enacted by the Authoritie aforeſaid, That all Strangers, Artificers and others, to be admitted Free<g ref="char:EOLhyphen"/>men as aforeſaid, before he or they be admit<g ref="char:EOLhyphen"/>ted to be Freemen as aforeſaid, ſhall take the Oaths of Supremacie and Allegiance to Our Sovereign Lord the King, his Heirs and Succeſſors, and alſo ſuch other Oaths as is accuſtomably taken by all or any Freemen or Member of any City, Burrough, priviledged or incorporated Town or other place in this Kingdom, or all or any the Members of any Guild or Brotherhood, Society or Fellowſhip of the Trade, Craft or other Myſterie which he or they ſhall occupie or exercize, in caſe he or they ſhall deſire to be incorporated into any ſuch Guild, Brotherhood, Society or Fellow<g ref="char:EOLhyphen"/>ſhip
+<pb n="8" facs="tcp:43596:6"/>aforeſaid, and ſhall pay, bear and ſuſtain all ſuch Offices and like Charges as all Freemen His Majeſties Subjects of all like Trade, Craft or Myſterie ſhall or do always uſe to bear and pay, and no other or more.</p>
+            <p>And Be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That if any Chief Magiſtrate, Magiſtrates or other perſons authorized as aforeſaid. of any City, Town or Corporati<g ref="char:EOLhyphen"/>on, or any Maſter, Warden or other Gover<g ref="char:EOLhyphen"/>nour of any Brotherhood, Societie or Fellow<g ref="char:EOLhyphen"/>ſhip, or anie Trade, Craft or Myſterie within anie ſuch Citie, Town or Corporation, ſhall refuſe to admit anie Trader, Artificers, Arti<g ref="char:EOLhyphen"/>zan, Workman or Seaman, being or coming into this Kingdom with Intent as aforeſaid to be a Freeman of the City, Town, or Cor<g ref="char:EOLhyphen"/>poration where he or they intend to inhabit, reſide or dwell, or to be a Brother or Mem<g ref="char:EOLhyphen"/>ber of any Brotherhood, Society or Fellow<g ref="char:EOLhyphen"/>ſhip within the ſame, every ſuch Chief Magi<g ref="char:EOLhyphen"/>ſtrate or Magiſtrates, Maſter, Warden or o<g ref="char:EOLhyphen"/>ther Governours reſpectively, ſhall forfeit for ſuch his denial the ſum of one hundred pounds; And every Trader, Artificer, Artizan, Workman or Seaman ſo denied to be admit<g ref="char:EOLhyphen"/>ted a Freeman of any Citie, Town or Corpo<g ref="char:EOLhyphen"/>ration, or to be a Member or Brother of any Brotherhood, Society or Fellowſhip within the ſame, upon tender by him or them made of Twentie Shillings by way of Fine, as aforeſaid, and taking the Oaths of Suprema<g ref="char:EOLhyphen"/>cie and Allegiance as aforeſaid, before any Iuſtice of Peace of the County next adjacent to ſuch Citie, Town or Corporation, or wherein ſuch Citie, Town or Corporation
+<pb n="9" facs="tcp:43596:6"/>is ſituated, who is hereby authorized and appointed to adminiſter ſuch Oaths, ſhall thereupon by virtue of this preſent Act, be deemed, reputed and taken to all Intents and Purpoſes to be a Freeman or Member of the ſaid Citie, Town, Corporation, Brotherhood, Society of Fellowſhip of any Trade, Craft or Myſterie where he or they ſhall inhabit, reſide or dwell, and be denied admiſſion as aforeſaid, and thenceforth have, exercize and enjoy the Liberty and Priviledge of trading, working, buying or ſelling of anie Commodities whatſoever in as large and ample manner as if he had been admit<g ref="char:EOLhyphen"/>ted a Freeman of ſuch Citie, Town or Corpora<g ref="char:EOLhyphen"/>tion, a Brother or Member of ſuch Brotherhood, Societie or Fellowſhip of any Trade, Craft or Myſterie within the ſame, taking the uſual oaths of ſuch Brothers or Members, which Oath anie one Iuſtice of Peace near adjoyning, ſhall have power to adminiſter, and bearing and ſuſtaining all ſuch Offices and Charges as aforeſaid, any Law, Charter, Cuſtom or Vſage to the contra<g ref="char:EOLhyphen"/>ry in any wiſe notwithſtanding.</p>
+            <p>And in caſe any perſon or perſons ſhall give a<g ref="char:EOLhyphen"/>ny interruption or diſturbance to any Trader, Ar<g ref="char:EOLhyphen"/>tificer, Artizan, Workman or Seaman aforeſaid, to the hindering him in his working, buying or ſelling as aforeſaid, contrary to the intent and meaning of this preſent Act, every ſuch perſon or perſons ſhall for every ſuch offence forfeit the ſum of Twenty pounds.</p>
+            <p>And Be it further Enacted by the Authority aforeſaid, That no Stranger born out of the Kings obeyſance, uſing any manner of Trade, Craft, Manufactury, Myſterie or Occupation, and inhabiting within any of the Cities, Bur<g ref="char:EOLhyphen"/>roughs,
+<pb n="10" facs="tcp:43596:7" rendition="simple:additions"/>Towns and Suburbs and Liberties thereof, or other places as aforeſaid, ſhall at any one time uſe, take, retain and keep into his or their ſervices, any Apprentices or any manner of Iourneymen or Covenant-Servants above the number of Six, beſides his or their Sons or Daughters, who are all to be Proteſtants, or elſe the Proteſtant Subjects of Our Sovereign Lord the King, &amp; born under his obeyſance, upon pain to loſe his or their Freedom, and to forfeit for every ſuch Apprentice, Iourneyman or other ſervant that he or they ſhall take or entertain above that number, contrary to this Act, the ſum of ten pounds, the one half thereof ſhall be to Our Sovereign Lord the King, and his Heirs, and ſo of all other forfeitures mentioned in this preſent Act, and the other half to him or them that ſhall ſue for it or them in any of the Kings Courts of of Records, or before any Iudge or Iudges of Aſſize in his or their reſpective Circuits, by Bill, Plaint, Action of Debt or Information, wherein no Wager of Law, Eſſoyn or Protection ſhall be allowed.</p>
+            <p>And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That all Strangers of the Proteſtant Religion tranſporting themſelves and families, and being Naturalized as aforeſaid, ſhall for the ſpace of ſeven years from &amp; after ſuch tranſport<g ref="char:EOLhyphen"/>ing of themſelves and families, and taking the Oaths of Supremacie and Allegiance, as afore<g ref="char:EOLhyphen"/>ſaid, be freed and exempted from payment of Ex<g ref="char:EOLhyphen"/>cize, for any of their private Houſhold, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or Proviſions, any Statute, Law, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Cuſtoms to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43596:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
